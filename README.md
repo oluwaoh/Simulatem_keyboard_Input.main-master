@@ -16,7 +16,7 @@
 
 在开始之前，请确保您的环境中已经安装了`pynput`库。可以通过以下命令进行安装：
 
-```bash
+```gh
 pip install pynput
 ```
 
